@@ -1,0 +1,2 @@
+# LotterySpinWheel
+Django Project
